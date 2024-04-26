@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<feedback>
+    <!-- *********************************************************************************************************** -->
+
+    <!-- CSE 331 feedback (Spring 2022) -->
+
+    <!-- Thanks for filling out your feedback! -->
+    <!-- The purpose of this feedback is to collect your feedback to ensure we make CSE 331 the best it can be. -->
+    <!-- You'll receive full credit for the feedback as long as you fill out every field, so answer honestly! -->
+    <!-- Just replace the text REPLACE with your response and leave the <> tags alone.  -->
+    <!-- Include this file in your .zip folder uploaded to Mimir, and you're golden! -->
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- (1) Please enter your MSU netid (the part of your email before @msu.edu) below. -->
+    <netid>
+        veschejo
+    </netid>
+
+    <!-- (2) Please enter your feedback below. How did you like the Project/CC? -->
+    <!-- What was easy? What was challenging? How could we improve it in the future? -->
+    <feedback>
+        Very hard, did not help that it was near impossible to help in the helproom. It would be better if there were
+        more functions that were a bit eaiser with less points each
+    </feedback>
+
+    <!-- (3) Please enter how difficult this project was -->
+    <!--  0 means Easy, 10 means Rocket Science (very difficult)  -->
+    <difficulty>
+        8
+    </difficulty>
+
+    <!-- (4) Please enter approximately how long the Project/CC took you in hours (as a floating point).  -->
+    <!-- For example, if it took you 45 minutes, enter 0.75; if it took you 2 and a half hours, enter 2.5. -->
+    <time>
+        43
+    </time>
+
+    <!-- (5) Please cite the resources you used to complete the Project/CC. URLs are fine!  -->
+    <citations>
+        N/A
+    </citations>
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- Configured by Project/CC author. DO NOT EDIT! -->
+    <type>Project</type>    <!-- Enter "Project" or "CC" without quotes -->
+    <number>10</number>      <!-- Enter Project/CC number as integer -->
+
+    <!-- *********************************************************************************************************** -->
+
+</feedback>
